@@ -27,3 +27,18 @@ This project provides a set of APIs to manage school data using Node.js, Express
    ```bash
    git clone https://github.com/your-username/school-management-api.git
    cd school-management-api
+
+## Hosted API
+
+The API is hosted on **Render**. You can access it at:
+- **Base URL**: `https://school-management-api-3ge9.onrender.com`
+
+## API Endpoints:
+
+Add School: POST /api/addSchool
+List Schools: GET /api/listSchools
+
+## Postman Collection
+
+You can access the Postman collection for testing the APIs using this shared link:  
+[Postman Collection](https://drive.google.com/file/d/19feYAFRhXsQFRU5lKgs8tKTDnl7eu5n-/view?usp=sharing)
